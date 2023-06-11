@@ -1,0 +1,25 @@
+
+body {
+  background-color: #E8ECEF;
+}
+
+.centered {
+    padding-top: 200px;
+    text-align: center;
+}
+
+.secret-text {
+  text-align: center;
+  font-size: 2rem;
+  color: #fff;
+  background-color: royalblue;
+  padding: 5px 10px;
+}
+
+.btn-custom{
+  box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+}
+
+.btn-custom:not(:last-child){
+  margin-right: 8px;
+}
